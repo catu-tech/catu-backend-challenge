@@ -6,9 +6,9 @@ Olá, jovem Padawan&reg;! Você está no repositório de desafios backend da Cat
 
 A proposta aqui é simples:
 
-- Fazer um _fork_ do repositório
-- Criar sua solução no seu repo
-- Nos enviar o link para o seu repo, que deve ser público
+- Crie um repositório privado e copie todos os arquivos 
+- Desenvolva sua solução no seu repo
+- Quando tudo estiver pronto, nos dê acesso ao seu repositório
 
 ## 📖 Catu Logger
 
